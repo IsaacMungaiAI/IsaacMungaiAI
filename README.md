@@ -10,9 +10,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=IsaacMungaAI&label=PROFILE+VIEWS&color=00d9ff&style=flat-square&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=IsaacMungaiAI&label=PROFILE+VIEWS&color=00d9ff&style=flat-square&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/IsaacMungaAI?style=flat-square&color=00d9ff&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/IsaacMungaiAI?style=flat-square&color=00d9ff&labelColor=0d1117" />
 
 </div>
 
