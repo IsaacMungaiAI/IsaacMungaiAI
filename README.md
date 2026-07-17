@@ -135,16 +135,16 @@ philosophy  : Learn ● Build ● Deploy
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsaacMungaiAI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-
 &nbsp;
 
-<img height="170em" src="https://github-readme-streak-stats.demolab.com/?user=IsaacMungaiAI&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacMungaiAI&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
 
 <br/><br/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMungaiAI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
 
 </div>
+
 
 ---
 
